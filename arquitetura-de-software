@@ -1,0 +1,5 @@
+Faça modularização, separação em módulos (modular design / modular programming): quebrar um sistema em unidades coesas e relativamente independentes, cada uma responsável por um aspecto bem definido do comportamento do programa.
+
+Brief → Sketch → Studio → modularização.
+
+Separação de responsabilidades (Separation of Concerns) de princípio arquitetural: cada parte do sistema lida com um único “tipo de problema”.
